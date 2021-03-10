@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LukaszGoleniec</string>
+    <string name="aNumberLabel">A:</string>
+    <string name="bNumberLabel">B:</string>
+    <string name="inputTextHintRe">Re</string>
+    <string name="inputTextHintIm">Im</string>
+    <string name="buttonAddLabel">+</string>
+    <string name="buttonSubtractLabel">-</string>
+
+    <string-array name="spinnerItems">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+</resources>
